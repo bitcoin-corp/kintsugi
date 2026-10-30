@@ -1,0 +1,43 @@
+Open BSV License Version 5
+
+Granted by BSV Association, Grafenauweg 6, 6300 Zug, Switzerland (CHE-427.008.338) ("Licensor"), to you as a user (henceforth "You", "User" or "Licensee").
+
+Definitions:
+
+"Bitcoin Protocol" means the protocol as defined by the original Bitcoin White Paper published on 31 October 2008 by Satoshi Nakamoto titled "Bitcoin: A Peer-to-Peer Electronic Cash System" ("Bitcoin White Paper"), including:
+(a) consensus mechanisms for the blockchain protocol; and
+(b) consensus mechanisms for the peer-to-peer protocol for interaction between nodes; but
+(c) excluding any applications that use the protocol.
+
+"BSV Blockchains" means any blockchain implementation that implements and uses the Bitcoin Protocol.
+
+"Network Access Rules" means rules set by BSV Blockchains for governing relationships between nodes based on Bitcoin Protocol rules.
+
+"Software" means the software distributed under this license.
+
+Grant of Permission:
+
+Subject to the conditions below, you are hereby granted permission to use, copy, modify, and distribute the Software for any purpose, with or without fee, subject to the following conditions:
+
+Conditions:
+
+1. Include the following copyright notice "© BSV Association" and this license in the Software and any copies or substantial portions of it.
+
+2. Software may only be used on BSV Blockchains.
+
+Disclaimer:
+
+This Software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
+
+This Software contains the previous Bitcoin SV Software under the MIT License, which is as follows:
+
+Copyright (c) 2009-2019 Bitcoin Developers
+Copyright (c) 2009-2019 The Bitcoin Core developers
+Copyright (c) 2017-2019 The Bitcoin ABC developers
+Copyright (c) 2018-2019 Bitcoin Association
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
